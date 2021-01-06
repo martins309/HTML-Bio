@@ -1,0 +1,26 @@
+html {
+  box-sizing: border-box;
+  
+}
+*, *::before, *::after{
+  box-sizing: inherit;
+}
+
+
+main {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+p {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.float {
+  
+}
+
+body {
+    background-color: lightblue;
+  }

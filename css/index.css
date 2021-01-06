@@ -7,20 +7,16 @@ html {
 }
 
 
-main {
+body {
+  margin: auto;
   display: flex;
   flex-wrap: wrap;
+  width: 960px;
 }
+
 
 p {
-  display: flex;
-  flex-wrap: wrap;
+  display: float;
+
 }
 
-.float {
-  
-}
-
-body {
-    background-color: lightblue;
-  }
